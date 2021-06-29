@@ -7,9 +7,6 @@ Master Edit1
 Master Edit2
 Master Edit3
 
-bbb
-
-
-aaa
+This is a clone from the cloud
 
 
