@@ -8,5 +8,6 @@ Master Edit2
 Master Edit3
 
 This is a clone from the cloud
-feature_1_brance edit
+Feature_1_brance edit
+This edit is from Remote_Repo_branch
 
